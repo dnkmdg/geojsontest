@@ -1,0 +1,2 @@
+# geojsontest
+Testing WFS-capabilities
